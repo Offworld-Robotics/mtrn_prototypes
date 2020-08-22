@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/owr/Documents/owr/task_206/task_206_ws/devel:$CMAKE_PREFIX_PATH"
-export PWD="/home/owr/Documents/owr/task_206/task_206_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/owr/Documents/owr/task_206/task_206_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/owr/Documents/owr/task_206/task_206_ws/src:$ROS_PACKAGE_PATH"
+export PWD="/home/owr/bluesat/task_206/task_206_ws/build"

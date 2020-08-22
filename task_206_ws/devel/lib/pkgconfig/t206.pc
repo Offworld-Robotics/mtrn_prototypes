@@ -1,0 +1,8 @@
+prefix=/home/owr/bluesat/task_206/task_206_ws/devel
+
+Name: t206
+Description: Description of t206
+Version: 0.0.0
+Cflags: -I/home/owr/bluesat/task_206/task_206_ws/src/t206/include
+Libs: -L${prefix}/lib 
+Requires: 

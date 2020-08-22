@@ -1,0 +1,8 @@
+prefix=/home/owr/bluesat/task_206/task_206_ws/install
+
+Name: hello
+Description: Description of hello
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp rospy std_msgs geometry_msgs

@@ -1,5 +1,5 @@
 # generated from catkin/cmake/template/order_packages.context.py.in
-source_root_dir = '/home/owr/Documents/owr/task_206/task_206_ws/src'
+source_root_dir = '/home/owr/bluesat/task_206/task_206_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/opt/ros/melodic'.split(';') if '/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/owr/bluesat/task_206/task_206_ws/devel;/opt/ros/melodic'.split(';') if '/home/owr/bluesat/task_206/task_206_ws/devel;/opt/ros/melodic' != '' else []
